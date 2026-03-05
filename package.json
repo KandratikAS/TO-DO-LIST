@@ -2,7 +2,7 @@
   "name": "todo-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kandratikas.github.io/TO-DO-LIST",
+  "homepage": "https://KandratikAS.github.io/TO-DO-LIST",
   "type": "module",
   "scripts": {
     "dev": "vite",
